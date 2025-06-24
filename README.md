@@ -36,7 +36,7 @@
 </head>
 <body>
   <header>
-    <img src="marca_Fleni_LIBIEN_color.jpg" alt="LIBIEN Logo" />
+    <img src="/figs/marca_Fleni_LIBIEN_full.jpg" alt="LIBIEN Logo" />
   </header>
   <section>
     <h1>Welcome to LIBIEN</h1>
